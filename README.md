@@ -1,4 +1,10 @@
-### Hi there 👋
+### Keith Chan
+- 📚 Currently studying ✨**Cyber Security Engineering**
+- 📫 How to reach me: keithchan1218@gmail.com
+- 🌞 Forecast: Cyber Security Analyst, SOC Analyst, Red Teamer, etc...
+
+Keith is currently studying his postgraduate study of Cyber Security Engineering at the University of Warwick.
+In his previous working experience, he used front-end techniques like React.js & Vue.js and back-end skill set including Spring Boot, C#.
 
 <!--
 **keithchan1218/keithchan1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
